@@ -1,0 +1,52 @@
+Sanjay Ramesh
+678-707-2032 | sramesh319@gatech.edu | linkedin.com/in/sanjayramesh1 | github.com/sramesh3
+
+Education
+Georgia Institute of Technology, Atlanta, GA
+Bachelor of Science in Computer Science, GPA: 4.0, Anticipated Graduation: May 2027
+
+Relevant Coursework: Data Structures and Algorithms; Object-Oriented Programming; Objects & Design; Perception & Robotics; Database Management; Systems & Networks; Intro to AI; Machine Learning
+
+Experience
+iOS Developer/Researcher (August 2024 – Present)
+Brain Trauma Assessment Protocol - AAC Team, Georgia Tech
+- Developing an Augmentative and Alternative Communication (AAC) iOS application using Swift and SwiftUI, designed to support individuals with sudden-onset aphasia through personalized communication strategies
+- Implementing Core Data and Firebase for secure and efficient backend data management
+- Conducting research on AAC technologies and user needs to inform app development, iterating based on clinical insights and user feedback
+- Maintaining a design notebook to document research findings, system architecture, and development progress, supporting future iterations and clinical validation
+
+Frontend Intern (June 2024 – August 2024)
+VDart
+- Engineered a responsive landing page using React.js, Tailwind CSS, and the Aceternity UI library, improving user engagement through intuitive access to the company’s talent management services
+- Prototyped UI designs with Figma, translating complex design requirements into functional and visually appealing interfaces
+- Gained experience in Redux Toolkit for efficient state management and Axios for seamless API integration
+
+Projects
+Sentiment Analysis of Amazon Reviews (January 2025 – Present)
+Technologies: Python, NumPy, Pandas, Scikit-learn
+- Developing a scalable sentiment analysis model on the Amazon Review Polarity Dataset (34M+ reviews) using Natural Language Processing techniques (TF-IDF, Word2Vec, FastText, BERT)
+- Experimenting with ML models including Logistic Regression, SVM, Naive Bayes, and Random Forest, optimizing performance using F1-score, AUC-ROC, and confusion matrices
+- Documenting methodology, results, and visualizations on GitHub Pages, ensuring reproducibility and transparency for future research
+
+Greenplate (January 2024 – May 2024)
+Technologies: Java, Android Studio, Firebase, Agile, Scrum, Jira
+- Developed a modular food tracking app in Java (Android Studio) using MVVM architecture, enabling users to log meals, create shopping lists, and manage recipes
+- Applied object-oriented design principles (SOLID, GRASP) to ensure maintainability and scalability, reducing debugging time by 20% through well-structured UML diagrams (Sequence, Design Class Diagrams)
+- Managed Agile workflows with Scrum methodologies and Jira, collaborating with a team to deliver milestones 10% ahead of schedule
+
+SwapSpot (January 2024 – May 2024)
+Technologies: Swift, SwiftUI, Xcode, Firebase
+- Co-developed a subleasing app for college students using Swift and SwiftUI, facilitating 50+ sublease postings during testing
+- Designed and optimized listing models with efficient backend logic, reducing app response time by 15% for browsing and posting subleases
+- Leveraged GitHub for version control and collaboration, reviewing pull requests and ensuring code quality
+
+Technical Skills and Certifications
+Languages: Java; Python; JavaScript; Swift; SQL; HTML; CSS; Assembly
+Frameworks/Libraries: React; Redux; SwiftUI; Axios; Scikit-learn; NumPy; Pandas; Matplotlib; MySQL
+Tools/Methodologies: Git; Firebase; Figma; VSCode; Xcode; Android Studio; Jupyter Notebook; Jira; Agile; Scrum
+Certifications: AWS Cloud Practitioner; Software Development Fundamentals (MTA); Intro to Programming Using Java (MTA); Intro to Programming Using Python (MTA); NOCTI General Management
+
+Contact
+Email: sramesh319@gatech.edu
+LinkedIn: https://linkedin.com/in/sanjayramesh1
+GitHub: https://github.com/sramesh3
