@@ -1,8 +1,10 @@
 from google import genai
 from flask import Flask, request, jsonify, render_template
+from flask_cors import CORS
 import os
 
 app = Flask(__name__)
+CORS(app, resources={r"/ask": {"origins": "*"}})
 
 api_key = os.getenv("GENAI_API_KEY")
 if not api_key:
